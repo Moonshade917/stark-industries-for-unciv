@@ -8,10 +8,10 @@
         "cost": 1,
         "science": 2,
         "uniques": [
-            "Discover [Electricity]",
+            "[1] Free Technologies",
             "[+20]% [Science] [in capital]",
             "Free [Iron Man] appears",
-            "Gain a free [Monument] [in this city]",
+            "Gain a free [Culture] [in this city]",
             "Will not be displayed in Civilopedia"],
         "quote": "'C'est un réacteur ARK miniature. Le grand modèle alimente mon usine dans mon pays. Ça protégera mon coeur du shrapnel.' 'Mais combien il peut générer ?' 'Si mes chiffres sont corrects, ce qui est toujours le cas, trois gigajoules par seconde.' ―Tony Stark et Ho Yinsen"
     },
@@ -39,7 +39,6 @@
         "cost":400,
         "production":5,
         "uniques":[
-            "Instantly provides [10] [Iron]",
             "[+20]% [Production][in capital]",
             "Only available <if [Réacteur ark] is constructed>",
             "Free [War Machine] appears"
