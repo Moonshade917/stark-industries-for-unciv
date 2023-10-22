@@ -120,7 +120,7 @@
 		"All tiles cost 1 movement", 
         	"Ignores Zone of Control"
         ],
-		"attackSound": "gdrAttack"
+	"attackSound": "gdrAttack"
 	},
     {
         "name":"Pepper Pots",
