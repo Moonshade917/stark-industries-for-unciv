@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Tecnologies aérienne",
+        "movementType" : "Air",
+        "uniques" : ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep"]
+    },
+    {
+        "name":"missile Stark",
+        "movementType":"Air",
+        "uniques":["Self-destructs when attacking", "Cannot be intercepted"]
+    },
+    {
+        "name":"heliporteur",
+        "movementType":"Land",
+        "uniques":["Can pass through impassable tiles","All tiles cost 1 movement","May enter foreign tiles without open borders","Can carry [1] [Military] units"]
+    },
+    {
+        "name":"Employé",
+        "movementType":"land",
+        "uniques":["Cannot attack","Invisible to non-adjacent units","Unit will heal every turn, even if it performs an action","May enter foreign tiles without open borders"]
+    }
+]

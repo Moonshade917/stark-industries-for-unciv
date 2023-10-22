@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Réacteur ark",
+        "uniqueTo": "Stark Industries",
+        "isWonder": "true",
+        "requiredTech": "Agriculture",
+        "requiredBuilding":"Réacteur ark",
+        "cost": 1,
+        "science": 2,
+        "uniques": [
+            "Discover [Electricity]",
+            "[+20]% [Science] [in capital]",
+            "Free [Iron Man] appears",
+            "Gain a free [Monument] [in this city]",
+            "Will not be displayed in Civilopedia"],
+        "quote": "'C'est un réacteur ARK miniature. Le grand modèle alimente mon usine dans mon pays. Ça protégera mon coeur du shrapnel.' 'Mais combien il peut générer ?' 'Si mes chiffres sont corrects, ce qui est toujours le cas, trois gigajoules par seconde.' ―Tony Stark et Ho Yinsen"
+    },
+    {
+        "name": "Scanner médical Stark",
+        "uniqueTo":"Stark Industries",
+        "isWonder":"true",
+        "requiredTech":"Mathematics",
+        "requiredBuilding":"Réacteur ark",
+        "cost":300,
+        "food":5,
+        "uniques":[
+            "[2] population [in capital]",
+            "[+20]% [Food] [in capital]",
+            "Only available <if [Réacteur ark] is constructed>",
+            "Free [Pepper Pots] appears"
+        ],
+        "quote":""
+    },
+    {
+        "name":"Exosquelette HazTech",
+        "isWonder":"true",
+        "requiredBuilding":"Réacteur ark",
+        "requiredTech":"Civil Service",
+        "cost":400,
+        "production":5,
+        "uniques":[
+            "Instantly provides [10] [Iron]",
+            "[+20]% [Production][in capital]",
+            "Only available <if [Réacteur ark] is constructed>",
+            "Free [War Machine] appears"
+        ],
+        "quote":""
+    },
+    {
+        "name":"Traqueur de rayonnement amélioré",
+        "isWonder":"true",
+        "requiredBuilding":"Réacteur ark",
+        "requiredTech":"Banking",
+        "cost":500,
+        "gold":5,
+        "uniques":[
+            "Free [Great Scientist] appears",
+            "[+20]% [Gold] [in capital]",
+            "Only available <if [Réacteur ark] is constructed>"
+        ],
+        "quote":""
+    },
+    {
+        "name":"Poste de commandement mobile aéroporté",
+        "isWonder":"true",
+        "requiredBuilding":"Réacteur ark",
+        "requiredTech":"Scientific Theory",
+        "cost":600,
+        "happiness":10,
+        "uniques":[
+            "Free [Great Scientist] appears",
+            "[+20]% [Happiness] [in capital]",
+            "Reveals the entire map",
+            "Only available <if [Réacteur ark] is constructed>"
+        ],
+        "quote":""
+    },
+    {
+        "name":"Stark tower",
+        "isWonder":"true",
+        "requiredBuilding":"Réacteur ark",
+        "requiredTech":"Scientific Theory",
+        "cost":700,
+        "Culture":10,
+        "uniques":[
+            "Free [Great Scientist] appears",
+            "[+20]% [Culture] [in capital]",
+            "Empire enters a [50]-turn Golden Age",
+            "[+3] Sight <for [All] units>",
+            "Only available <if [Réacteur ark] is constructed>"
+        ],
+        "quote":""
+    }   
+]

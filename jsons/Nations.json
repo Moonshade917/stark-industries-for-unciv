@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Stark Industries",
+		"leaderName": "Tony stark",
+		"adjective": ["Milliardaire playboy megalo"],
+		"startBias": ["Coast"],
+        "preferredVictoryType": "Scientific",
+        
+        "startIntroPart1": "Il y a bien longtemps, stark Industries n'était qu'une petit entreprise avec peu d'employés (mal payés). Arriverez vous a faire une grande entreprise a partir de ça?",
+		"startIntroPart2": "Vous incarnerez donc Tony stark, un personnage qui traversera les siècle et aurez la possibilitée d'employer d'autre personnage emblematique comme pepper Pots. Bon courage!",
+
+		"declaringWar": "Vous êtes ridicules...",
+		"attacked": "Vous voulez le réacteur ark... Vous ne l'aurez pas!!!",
+		"defeated": "Je vous cèdes mon role de maitre du mond...",
+		"afterPeace": "Votre proposition de paix me convainc, au plaisir de vous réattaquer plus tard!",
+
+		"introduction": "Salut, moi c'est tony stark, Milliardaire playboy megalo, enchanté.",		
+		"neutralHello": "Hmm Salut Ne me dérange pas s'il te plais",
+		"hateHello": "...",		
+		"tradeRequest": "Vous le savez bien que si je vous fait cette offre c'est qu'elle est en ma faveur, mais en attendant vous n'avez pas trop d'autre choisx que d'accepter...",
+
+		"outerColor": [185,125,16],
+		"innerColor": [170,5,5],
+		"uniqueName": "Le secret du réacteur ark",
+		"uniques": ["[All] units gain the [Stark Industries] promotion",
+			"Starts with [Writing]",
+			"Cannot build [Settler] units",
+            "[+2 Gold, +2 Production, +2 Science] [in capital]",
+            "[-2 Gold] per [1] population [in all cities]",
+            "[+50]% [Science] [in capital]",
+            "[+20]% growth [in capital]",
+            "Receive a tech boost when scientific buildings/wonders are built in capital",
+            "Free [Great Scientist] appears",
+            "Cannot build [Military] units <before the [Modern era]>"
+        ],
+		"cities": ["Stark tower"]
+    }
+]
