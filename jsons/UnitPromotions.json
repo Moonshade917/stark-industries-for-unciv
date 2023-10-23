@@ -1,11 +1,6 @@
 [
 	{
 	"name": "Stark Industries",
-	"+uniques": ["Can see over obstacles",
-		"[+15]% Strength <vs [Barbarian] units>",
-		"Uncapturable",
-        	"Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
-        	"Can move immediately once bought"
-        ]
+	"+uniques": ["Can see over obstacles","[+15]% Strength <vs [Barbarian] units>","Uncapturable","Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence","Can move immediately once bought"]
 	}
 ]
