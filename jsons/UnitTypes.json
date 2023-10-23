@@ -16,7 +16,7 @@
     },
     {
         "name":"Employé",
-        "movementType":"land",
+        "movementType":"Land",
         "uniques":["Cannot attack","Invisible to non-adjacent units","Unit will heal every turn, even if it performs an action","May enter foreign tiles without open borders"]
     }
 ]
