@@ -3,7 +3,7 @@
         "name": "Réacteur ark",
         "uniqueTo": "Stark Industries",
         "isWonder": "true",
-        "requiredTech": "Agriculture",
+        "requiredTech": "Writing",
         "requiredBuilding":"Réacteur ark",
         "cost": 1,
         "science": 2,
