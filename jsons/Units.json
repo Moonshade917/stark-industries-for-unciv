@@ -91,7 +91,7 @@
         "range":1,
         "movement":3,
         "cost":500,
-        "uniques":["Limited to [1] per Civilization","[+50]% XP gained from combat","Heals [15] damage if it kills a unit","[+30]% Strength <during the [Classical era]>","[+60]% Strength <during the [Medieval era]>","[+90]% Strength <during the [Renaissance era]>","[+120]% Strength <during the [Industrial era]>","[+150]% Strength <during the [Modern era]>","[+180]% Strength <during the [Atomic era]>","[+210]% Strength <during the [Information era]>","[+240]% Strength <during the [Future era]>"],
+        "uniques":["Only available <in cities with a [Réacteur ark]>","Limited to [1] per Civilization","[+50]% XP gained from combat","Heals [15] damage if it kills a unit","[+30]% Strength <during the [Classical era]>","[+60]% Strength <during the [Medieval era]>","[+90]% Strength <during the [Renaissance era]>","[+120]% Strength <during the [Industrial era]>","[+150]% Strength <during the [Modern era]>","[+180]% Strength <during the [Atomic era]>","[+210]% Strength <during the [Information era]>","[+240]% Strength <during the [Future era]>"],
         "attackSound":"machinegun"
     }
 ]
