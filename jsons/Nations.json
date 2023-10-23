@@ -22,7 +22,7 @@
 	"outerColor": [144,4,4],
 	"innerColor": [195,144,51],
 	"uniqueName": "Le secret du réacteur ark",
-	"uniques": ["[All] units gain the [Stark Industries] promotion","Starts with [Writing]","Cannot build [Settler] units","[+2 Gold, +2 Production, +2 Science] [in capital]","[-2 Gold] per [1] population [in all cities]","[+50]% [Science] [in capital]","[+20]% growth [in capital]","Receive a tech boost when scientific buildings/wonders are built in capital","Free [Great Scientist] appears <upon discovering [Pottery]>","Cannot build [Military] units <before the [Modern era]>"],
+	"uniques": ["[All] units gain the [Stark Industries] promotion","Starts with [Pottery]","Cannot build [Settler] units","[+2 Gold, +2 Production, +2 Science] [in capital]","[-2 Gold] per [1] population [in all cities]","[+50]% [Science] [in capital]","[+20]% growth [in capital]","Receive a tech boost when scientific buildings/wonders are built in capital","Free [Great Scientist] appears <upon discovering [Pottery]>","Cannot build [Military] units <before the [Modern era]>"],
 	"cities": ["Stark tower"]
     }
 ]
