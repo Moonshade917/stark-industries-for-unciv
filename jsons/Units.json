@@ -13,6 +13,7 @@
         "name": "Espion de Stark",
 	"unitType": "Employé",
 	"uniqueTo": "Stark Industries",
+	"requiredTech":"Mathematics",
 	"movement": 2,
         "strentgh" : 20,
 	"cost": 100,
